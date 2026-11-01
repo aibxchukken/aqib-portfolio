@@ -32,7 +32,7 @@ Design note: the reference screenshot is used only as visual inspiration. The we
 - Second-year Diploma Computer Engineering student
 - Coding experience: 2+ years; photography/video experience: 6+ years
 - Co-Founder Of ARGON STUDIO
-- Current work: Lyntora Perfumes and Targital
+- Current work: Lyntora Perfumes and Cyber XL Labs
 - Live projects: Argon Studio, Ishq Matrimony, Lyntora Perfumes, Smile Vacation Camp app
 - Social accounts: Argon Studio, AIBX Blogs, Lyntora Perfumes
 - LinkedIn: https://www.linkedin.com/in/aqibacs
